@@ -1,0 +1,18 @@
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+}
+
+.card{
+    width: 50%;
+    display: flex;
+    margin: auto;
+}
+.card img{
+    width: 30%;
+}
+.card-titulo{
+    display: flex;
+    font-size: 30px;
+}
